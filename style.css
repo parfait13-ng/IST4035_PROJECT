@@ -42,3 +42,13 @@ nav ul li a:hover {
     color: #fff;
     border-radius: 5px;
 }
+/*css styling for the form on contact us*/
+form {
+    width: 50%;
+    margin: 40px auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ccc;
+    
+}
+
